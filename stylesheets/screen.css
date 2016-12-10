@@ -1,0 +1,26 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 2, ../sass/basic/home.scss */
+.why p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-size: 17px;
+}
+
+/* line 9, ../sass/basic/home.scss */
+.pricing-table {
+  width: 33% !important;
+}
+
+/* line 13, ../sass/basic/home.scss */
+.section-margin {
+  padding-top: 15%;
+}
+
+/* line 17, ../sass/basic/home.scss */
+footer {
+  padding-top: 0px !important;
+  margin-top: 15%;
+}

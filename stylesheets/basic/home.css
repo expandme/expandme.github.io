@@ -1,0 +1,22 @@
+/* line 2, ../../sass/basic/home.scss */
+.why p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-size: 17px;
+}
+
+/* line 9, ../../sass/basic/home.scss */
+.pricing-table {
+  width: 33% !important;
+}
+
+/* line 13, ../../sass/basic/home.scss */
+.section-margin {
+  padding-top: 15%;
+}
+
+/* line 17, ../../sass/basic/home.scss */
+footer {
+  padding-top: 0px !important;
+  margin-top: 15%;
+}
